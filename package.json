@@ -1,0 +1,9 @@
+{
+    "name": "product-service-comp464",
+    "version": "1.0.0",
+    "description": "Simple Node.js service for COMP 464 assignment",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    }
+  }
