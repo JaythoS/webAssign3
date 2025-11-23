@@ -2,7 +2,7 @@ const http = require('http');
 
 // UYARI: EC2'de bu portta (3000) izin vermen GEREKİR. 
 // Eğer sadece Port 80 kullanacaksan, değeri 80 yap.
-const PORT = 3000;
+const PORT = 80;
 
 // Ağır Hesaplama Fonksiyonu (Task 2'de CPU yükü oluşturmak için)
 function generateLoad() {
